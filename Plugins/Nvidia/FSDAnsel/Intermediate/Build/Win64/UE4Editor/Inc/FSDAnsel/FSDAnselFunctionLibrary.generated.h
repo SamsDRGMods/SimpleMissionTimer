@@ -75,7 +75,7 @@ public: \
 	NO_API UFSDAnselFunctionLibrary(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UFSDAnselFunctionLibrary) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UFSDAnselFunctionLibrary); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFSDAnselFunctionLibrary); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFSDAnselFunctionLibrary); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UFSDAnselFunctionLibrary(UFSDAnselFunctionLibrary&&); \
@@ -90,7 +90,7 @@ private: \
 	NO_API UFSDAnselFunctionLibrary(const UFSDAnselFunctionLibrary&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UFSDAnselFunctionLibrary); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFSDAnselFunctionLibrary); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFSDAnselFunctionLibrary); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UFSDAnselFunctionLibrary)
 
 

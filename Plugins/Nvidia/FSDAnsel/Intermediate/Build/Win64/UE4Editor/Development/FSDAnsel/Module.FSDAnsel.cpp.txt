@@ -1,12 +1,13 @@
-D:\DRGmodding\Github\SimpleMissionTimer\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Development\FSDAnsel\Definitions.FSDAnsel.h
-D:/DRGmodding/Github/SimpleMissionTimer/Plugins/Nvidia/FSDAnsel/Source/FSDAnsel/Private/FSDAnselFunctionLibrary.cpp
-D:\DRGmodding\Github\SimpleMissionTimer\Plugins\Nvidia\FSDAnsel\Source\FSDAnsel\Public\FSDAnselFunctionLibrary.h
-D:\DRGmodding\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
-D:\DRGmodding\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
-D:\DRGmodding\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
-D:\DRGmodding\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
-D:\DRGmodding\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
-D:\DRGmodding\Github\SimpleMissionTimer\Plugins\Nvidia\FSDAnsel\Source\FSDAnsel\Public\EUIControlEffectTarget.h
-D:\DRGmodding\Github\SimpleMissionTimer\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Inc\FSDAnsel\EUIControlEffectTarget.generated.h
-D:\DRGmodding\Github\SimpleMissionTimer\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Inc\FSDAnsel\FSDAnselFunctionLibrary.generated.h
-D:/DRGmodding/Github/SimpleMissionTimer/Plugins/Nvidia/FSDAnsel/Source/FSDAnsel/Private/FSDAnselModule.cpp
+C:\DRGmodding\Github\SimpleMissionTimer\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Development\FSDAnsel\Definitions.FSDAnsel.h
+C:/DRGmodding/Github/SimpleMissionTimer/Plugins/Nvidia/FSDAnsel/Source/FSDAnsel/Private/FSDAnselFunctionLibrary.cpp
+C:\DRGmodding\Github\SimpleMissionTimer\Plugins\Nvidia\FSDAnsel\Source\FSDAnsel\Public\FSDAnselFunctionLibrary.h
+C:\DRGmodding\Github\SimpleMissionTimer\Plugins\Nvidia\FSDAnsel\Source\FSDAnsel\Public\EUIControlEffectTarget.h
+C:\DRGmodding\Github\SimpleMissionTimer\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Inc\FSDAnsel\EUIControlEffectTarget.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+C:\DRGmodding\Github\SimpleMissionTimer\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Inc\FSDAnsel\FSDAnselFunctionLibrary.generated.h
+C:/DRGmodding/Github/SimpleMissionTimer/Plugins/Nvidia/FSDAnsel/Source/FSDAnsel/Private/FSDAnselModule.cpp
