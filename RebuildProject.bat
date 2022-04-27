@@ -20,6 +20,6 @@ git submodule update
 echo making symbolic link
 rmdir "%cd%\Content\DRGLib"
 del "%cd%\Content\DRGLib"
-mklink /d "%cd%\Content\DRGLib" "%cd%\DRGLibDevkitFiles\FSD\Content\DRGLib"
+mklink /d "%cd%\Content\DRGLib" "..\DRGLibDevkitFiles\FSD\Content\DRGLib"
 
 pause
